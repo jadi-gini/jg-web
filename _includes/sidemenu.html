@@ -1,0 +1,64 @@
+<div class="sidemenu">
+    <div id="sidemenu">
+        <div id="nav-icon4" onclick="openCloseSideMenu()">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="menu-container">
+            <a href="{{ "/" | relative_url }}">
+                <div class="menu-home">
+                    <div id="ci-menu" onclick="openCloseSideMenu()"><div class="issue">home</div></div>
+                </div>
+            </a>
+
+            <a href="{{ relative_url }}/currentissue/">
+            <div class="menu-ci">
+                <div id="ci-menu" onclick="openCloseSideMenu()"><div class="current">current</div><div class="issue">issue</div></div>
+            </div>
+            </a>
+
+            <a href="/todaysresearch/">
+            <div class="menu-tr">
+                <div id="ci-menu" onclick="openCloseSideMenu()"><div class="current">today's</div><div class="issue">research</div></div>
+            </div>
+            </a>
+
+            <a href="/jadimikir/">
+            <div class="menu-jm">
+                <div id="ci-menu" onclick="openCloseSideMenu()"><div class="current">jadi</div><div class="issue">mikir</div></div>
+            </div>
+            </a>
+
+            <a href="/tentang/">
+            <div class="menu-ab">
+                <div id="ci-menu" onclick="openCloseSideMenu()"><div class="issue">tentang</div></div>
+            </div>
+            </a>
+
+        </div>
+
+    </div>
+</div>
+
+<script>
+    var sm = document.getElementById('sidemenu');
+    var open = 0;
+
+    sm.style.left = "-320px";
+    sm.style.zIndex = "5";
+
+    function openCloseSideMenu(){
+
+        if ( open == 0 ) {
+            sm.style.left = "0";
+            open = 1;
+        } else if (open == 1 ) {
+            sm.style.left = "-320px";
+            open = 0;
+        };
+
+    };
+
+</script>

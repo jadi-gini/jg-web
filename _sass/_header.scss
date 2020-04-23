@@ -1,0 +1,57 @@
+header {
+    width: 100%;
+    position: fixed;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    z-index: 5
+}
+
+header.site-header {
+    background-color: $black;
+}
+
+header.post-header {
+    position: relative;
+}
+
+.wrapper {
+    margin:auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width:$s-xl-1;
+}
+.site-header {
+    width: 100%;
+}
+
+.nav {
+    top: 0px;
+    position: relative;
+    display:flex;
+    justify-content: flex-end;
+}
+
+.push-nav {
+    margin-right: auto;
+}
+
+#ci {
+    position: relative;
+    right: 10px;
+    color: $secondary-color;
+    display: flex;
+}
+
+#ci .current {
+    font-family: $pf-light;
+    font-size: 30px;
+}
+
+#ci .issue {
+    font-family: $pf-bolditalic;
+    font-size: 30px;
+}
+
+#logoJadigini {
+    margin-right: 15px;
+}

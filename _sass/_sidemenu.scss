@@ -1,0 +1,238 @@
+/* Icon 3 */
+
+#nav-icon3 {
+    margin-top:auto;
+    margin-bottom: auto;
+    width: 40px;
+    height: 28px;
+    position: relative;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: .5s ease-in-out;
+    -moz-transition: .5s ease-in-out;
+    -o-transition: .5s ease-in-out;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+    z-index: 15;
+}
+
+#nav-icon3 span {
+  display: block;
+  position: absolute;
+  height: 4px;
+  width: 100%;
+  background: $primary-color;
+  border-radius: 9px;
+  opacity: 1;
+  left: 0;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .25s ease-in-out;
+  -moz-transition: .25s ease-in-out;
+  -o-transition: .25s ease-in-out;
+  transition: .25s ease-in-out;
+  z-index: 15;
+}
+
+
+#nav-icon3 span:nth-child(1) {
+  top: 0px;
+  z-index: 15;
+}
+
+#nav-icon3 span:nth-child(2),#nav-icon3 span:nth-child(3) {
+  top: 12px;
+  z-index: 15;
+}
+
+#nav-icon3 span:nth-child(4) {
+  top: 24px;
+  z-index: 15;
+}
+
+#nav-icon3.open span:nth-child(1) {
+    background: $black;
+    top: 18px;
+    width: 0%;
+    left: 50%;
+    z-index: 15;
+}
+
+#nav-icon3.open span:nth-child(2) {
+    background: $black;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    z-index: 15;
+}
+
+#nav-icon3.open span:nth-child(3) {
+    background: $black;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    z-index: 15;
+}
+
+#nav-icon3.open span:nth-child(4) {
+    background: $black;
+    top: 18px;
+    width: 0%;
+    left: 50%;
+    z-index: 15;
+}
+
+#sidemenu {
+    position: absolute;
+    height: 100%;
+    width: 320px;
+    left: -320px;
+    background-color: $primary-color;
+    z-index: 10;
+    top: 0;
+    transition: all 200ms ease-in-out;
+}
+
+#nav-icon4 {
+    margin-top:auto;
+    margin-bottom: auto;
+    top: 27px;
+    right: -260px;
+    width: 40px;
+    height: 28px;
+    position: relative;
+    cursor: pointer;
+    z-index: 15;
+}
+
+#nav-icon4 span {
+  display: block;
+  position: absolute;
+  height: 4px;
+  width: 100%;
+  background: $black;
+  border-radius: 9px;
+  opacity: 1;
+  left: 0;
+  z-index: 15;
+}
+
+#nav-icon4 span:nth-child(1) {
+    top: 18px;
+    width: 0%;
+    left: 50%;
+    z-index: 15;
+}
+
+#nav-icon4 span:nth-child(2) {
+    top: 12px;
+    z-index: 15;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+#nav-icon4   span:nth-child(3) {
+    top: 12px;
+    z-index: 15;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+#nav-icon4 span:nth-child(4) {
+    top: 18px;
+    width: 0%;
+    left: 50%;
+    top: 24px;
+    z-index: 15;
+}
+
+.menu-container {
+    width: 80%;
+    position: relative;
+    top: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-home {
+    width: 100%;
+    height: 60px;
+    border: black 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-ci {
+    width: 100%;
+    height: 60px;
+    border: black 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.menu-tr {
+    width: 100%;
+    height: 60px;
+    border: black 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.menu-jm {
+    width: 100%;
+    height: 60px;
+    border: black 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.menu-ab {
+    width: 100%;
+    height: 60px;
+    border: black 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#ci-menu {
+    position: relative;
+    color: $black;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 250ms;
+}
+
+#ci-menu .current {
+    font-family: $pf-light;
+    font-size: 30px;
+}
+
+#ci-menu .issue {
+    font-family: $pf-bolditalic;
+    font-size: 30px;
+}
+
+#ci-menu:hover {
+    color: $secondary-color;
+}
