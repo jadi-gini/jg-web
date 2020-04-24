@@ -45,9 +45,18 @@
 <script>
     var sm = document.getElementById('sidemenu');
     var open = 0;
+    var w = document.body.clientWidth;
+    var close = document.getElementById('nav-icon4');
 
     sm.style.left = "-320px";
     sm.style.zIndex = "5";
+
+    var wa = sm.style.left = "-"+w+"px";
+
+    if ( w <= 590 ) {
+        c = w - 60;
+        close.style.right = "-"+c+"px";
+    }
 
     function openCloseSideMenu(){
 
@@ -55,7 +64,7 @@
             sm.style.left = "0";
             open = 1;
         } else if (open == 1 ) {
-            sm.style.left = "-320px";
+            sm.style.left = wa;
             open = 0;
         };
 
