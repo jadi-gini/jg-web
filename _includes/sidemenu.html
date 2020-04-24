@@ -45,9 +45,12 @@
 <script>
     var sm = document.getElementById('sidemenu');
     var open = 0;
+    var w = document.clientWidth;
 
     sm.style.left = "-320px";
     sm.style.zIndex = "5";
+
+    console.log(w);
 
     function openCloseSideMenu(){
 
