@@ -5,7 +5,7 @@ date:   2020-02-22 17:37:39 +0700
 categories: currentissue
 permalink: /:categories/:title
 link: /foreign-tourism/
-thumb: /assets/img/uploads/12-feed-01.jpg
+thumb: jg-web/assets/img/uploads/12-feed-01.jpg
 images:
     - image: /assets/img/uploads/12-feed-01.jpg
     - image: /assets/img/uploads/12-feed-02.jpg
