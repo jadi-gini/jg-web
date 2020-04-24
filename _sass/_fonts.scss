@@ -4,7 +4,7 @@
 font-family: 'Geometria';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria.woff') format('woff');
+src: url('/fonts/Geometria.woff') format('woff');
 }
 
 
@@ -12,7 +12,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria.woff') format('woff');
 font-family: 'Geometria-Italic';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-Italic.woff') format('woff');
+src: url('/fonts/Geometria-Italic.woff') format('woff');
 }
 
 
@@ -20,7 +20,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-Italic.woff') format('woff');
 font-family: 'Geometria-Thin';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-Thin.woff') format('woff');
+src: url('/fonts/Geometria-Thin.woff') format('woff');
 }
 
 
@@ -28,7 +28,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-Thin.woff') format('woff');
 font-family: 'Geometria-ThinItalic';
 font-style: normal;
 font-weight: normal;
-src:  url('{{ baseurl }}/assets/css/fonts/Geometria-ThinItalic.woff') format('woff');
+src:  url('/fonts/Geometria-ThinItalic.woff') format('woff');
 }
 
 
@@ -36,7 +36,7 @@ src:  url('{{ baseurl }}/assets/css/fonts/Geometria-ThinItalic.woff') format('wo
 font-family: 'Geometria-ExtraLight';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-ExtraLight.woff') format('woff');
+src: url('/fonts/Geometria-ExtraLight.woff') format('woff');
 }
 
 
@@ -44,7 +44,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-ExtraLight.woff') format('wof
 font-family: 'Geometria-ExtraLightItalic';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-ExtraLightItalic.woff') format('woff');
+src: url('/fonts/Geometria-ExtraLightItalic.woff') format('woff');
 }
 
 
@@ -52,7 +52,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-ExtraLightItalic.woff') forma
 font-family: 'Geometria-Light';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-Light.woff') format('woff');
+src: url('/fonts/Geometria-Light.woff') format('woff');
 }
 
 
@@ -60,7 +60,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-Light.woff') format('woff');
 font-family: 'Geometria-LightItalic';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-LightItalic.woff') format('woff');
+src: url('/fonts/Geometria-LightItalic.woff') format('woff');
 }
 
 
@@ -68,7 +68,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-LightItalic.woff') format('wo
 font-family: 'Geometria-Medium';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-Medium.woff') format('woff');
+src: url('/fonts/Geometria-Medium.woff') format('woff');
 }
 
 
@@ -76,7 +76,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-Medium.woff') format('woff');
 font-family: 'Geometria-MediumItalic';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-MediumItalic.woff') format('woff');
+src: url('/fonts/Geometria-MediumItalic.woff') format('woff');
 }
 
 
@@ -84,7 +84,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-MediumItalic.woff') format('w
 font-family: 'Geometria-Bold';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-Bold.woff') format('woff');
+src: url('/fonts/Geometria-Bold.woff') format('woff');
 }
 
 
@@ -92,7 +92,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-Bold.woff') format('woff');
 font-family: 'Geometria-BoldItalic';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-BoldItalic.woff') format('woff');
+src: url('/fonts/Geometria-BoldItalic.woff') format('woff');
 }
 
 
@@ -100,7 +100,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-BoldItalic.woff') format('wof
 font-family: 'Geometria-ExtraBold';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-ExtraBold.woff') format('woff');
+src: url('/fonts/Geometria-ExtraBold.woff') format('woff');
 }
 
 
@@ -108,7 +108,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-ExtraBold.woff') format('woff
 font-family: 'Geometria-ExtraBoldItalic';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-ExtraBoldItalic.woff') format('woff');
+src: url('/fonts/Geometria-ExtraBoldItalic.woff') format('woff');
 }
 
 
@@ -116,7 +116,7 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-ExtraBoldItalic.woff') format
 font-family: 'Geometria-Heavy';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-Heavy.woff') format('woff');
+src: url('/fonts/Geometria-Heavy.woff') format('woff');
 }
 
 
@@ -124,5 +124,5 @@ src: url('{{ baseurl }}/assets/css/fonts/Geometria-Heavy.woff') format('woff');
 font-family: 'Geometria-HeavyItalic';
 font-style: normal;
 font-weight: normal;
-src: url('{{ baseurl }}/assets/css/fonts/Geometria-HeavyItalic.woff') format('woff');
+src: url('/fonts/Geometria-HeavyItalic.woff') format('woff');
 }
