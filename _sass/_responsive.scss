@@ -100,8 +100,10 @@
     }
 
     .carousel__holder {
-        width: $s-xs-1 * 0.9;
-        height: $s-xs-1 * 0.9;
+        width: $s-xs-1;
+        height: $s-xs-1;
+        margin-left: auto;
+        margin-right: auto;
         margin-top: 15px;
         box-shadow: 0px 0px 6px $gray;
     }
@@ -160,7 +162,7 @@
 
     #ci {
         top:1px;
-        right: 2px;
+        right: 5px;
     }
 
     #ci .current {
