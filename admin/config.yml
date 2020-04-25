@@ -3,3 +3,15 @@ backend:
   branch: gh-pages
 
 media_folder: "assets/img/uploads"
+
+collections:
+    - label: "Post"
+      name: "post"
+      folder: "_posts"
+      create: true
+      slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+      fields:
+        - label: "Layout"
+          name: "layout"
+          widget: "hidden"
+          default: "post"
