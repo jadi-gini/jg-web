@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Indonesian Government Treat Covid-19
+title: Judul Artikel yang Baru
 categories: jadimikir
 date: 2020-03-10 17:37:39 +0700
 permalink: /:categories/:title
@@ -22,26 +22,10 @@ images:
   - image: /assets/img/uploads/12-feed-09.jpg
   - image: /assets/img/uploads/12-feed-10.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat quam id ex elementum auctor. Fusce risus ipsum, tincidunt quis ligula et, commodo posuere tellus. Donec ac lorem vitae mi dapibus elementum et ac diam. Vestibulum lectus urna, pellentesque ut lorem ac, feugiat lacinia augue. Pellentesque porta turpis in mi porttitor interdum. Maecenas et ex eu massa posuere tincidunt non ac purus. Vivamus ut porta risus, sit amet bibendum lorem. Integer pretium hendrerit arcu, ac ornare eros auctor malesuada. Donec vulputate, neque sed feugiat pharetra, purus mi vestibulum turpis, non pretium tellus odio tristique lectus. Nunc quis pharetra enim. Nunc enim sem, cursus eu orci sed, accumsan faucibus turpis.
 
-Jekyll requires blog post files to be named according to the following format:
+Aenean tempus eu erat vitae ultricies. Fusce tortor nibh, varius non egestas vitae, semper sit amet metus. Ut pharetra leo nec dolor blandit molestie. Ut eu vehicula felis. In hac habitasse platea dictumst. Suspendisse venenatis lacus at leo tristique, sed elementum purus laoreet. Duis porta euismod enim, fermentum interdum eros iaculis sed.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Ut bibendum leo non turpis vestibulum, quis dapibus diam pulvinar. Nullam posuere ligula ante, at ultricies sapien lacinia vel. Ut eget augue nisi. Suspendisse sed facilisis nibh, vitae condimentum lacus. Donec ut tincidunt sem, eu convallis enim. In eu volutpat neque. Donec tristique metus a arcu facilisis porttitor. Ut sollicitudin laoreet viverra.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Morbi quis consequat arcu. Vestibulum aliquet diam nisl, eget porta magna hendrerit eu. Donec enim tellus, congue non mattis id, tincidunt vel urna. Pellentesque luctus aliquet enim, non sollicitudin nisl ornare eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam malesuada fringilla magna, mollis blandit elit aliquam a. Nunc fermentum venenatis sem, quis posuere sem finibus non. Proin sed arcu eget risus fringilla egestas eget eget nisl. Vivamus vehicula mi in quam facilisis, in rutrum eros pharetra. Donec a turpis facilisis, iaculis urna sit amet, suscipit velit. Ut porta vulputate diam in sodales. Aliquam consequat ullamcorper massa, non dictum velit mollis ut. Nulla augue nulla, elementum sit amet mi vel, fermentum dignissim eros. Quisque et nisi aliquam, ornare arcu vitae, congue orci. Proin quis viverra massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
