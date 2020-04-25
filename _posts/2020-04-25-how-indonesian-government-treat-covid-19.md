@@ -7,6 +7,7 @@ permalink: /:categories/:title
 thumb: /assets/img/uploads/12-feed-01.jpg
 credit:
   author: Lorem
+  comic: Comic Artist
   research: Ipsum
   layout: Dolor
   graphic: Sit Amet
