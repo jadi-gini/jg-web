@@ -39,6 +39,15 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
+        <a href="{{ site.baseurl }}/{{ post.categories }}/">
+            {%- if post.categories contains "currentissue" -%}
+            <div class="post-cat" style="background-color: #1f77b4;">current issue</div>
+            {%- elsif post.categories contains "todaysresearch" -%}
+            <div class="post-cat" style="background-color: #ff7f0e;">today's research</div>
+            {%- elsif post.categories contains "jadimikir" -%}
+            <div class="post-cat" style="background-color: #2ca02c;">jadimikir</div>
+            {%- endif -%}
+        </a>
         </div>
         </div>
         {%- if site.show_excerpts -%}

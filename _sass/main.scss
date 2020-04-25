@@ -42,15 +42,30 @@ body::-webkit-scrollbar-thumb {
 
 h3 {
     margin-top: 0px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     font-size: 20pt;
     font-family: $pf;
 }
+
+
 
 .post-meta {
     font-family: $secondary-font;
     font-size: 11pt;
     color: $gray;
+}
+
+.post-cat {
+    width:max-content;
+    font-family: $secondary-font;
+    font-size: 11pt;
+    font-weight: 600;
+    color: $secondary-color;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 2px;
+    padding-left: 15px;
+    padding-right: 20px;
 }
 
 a {
