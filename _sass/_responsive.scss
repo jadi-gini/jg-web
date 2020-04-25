@@ -54,6 +54,10 @@
         font-size: 11px;
     }
 
+    .credit {
+        font-size: 13px;
+    }
+
     .wrapper {
         margin-bottom: 0px;
     }
@@ -100,9 +104,10 @@
     }
 
     .carousel__holder {
-        width: $s-xs-1 * 0.9;
-        height: $s-xs-1 * 0.9;
+        width: $s-xs-1;
+        height: $s-xs-1;
         margin-top: 15px;
+        margin-righy:0;
         box-shadow: 0px 0px 6px $gray;
     }
 
@@ -160,7 +165,7 @@
 
     #ci {
         top:1px;
-        right: 2px;
+        right: 6px;
     }
 
     #ci .current {
@@ -238,6 +243,10 @@
         font-size: 11px;
     }
 
+    .credit {
+        font-size: 13px;
+    }
+
     .post-title {
         font-size: 24pt;
         margin-top: 15px;
@@ -285,7 +294,7 @@
 
     #ci {
         top:3px;
-        right: 5px;
+        right:7px;
     }
 
     #ci .current {
@@ -347,6 +356,10 @@
 
     .post-meta {
         font-size: 12px;
+    }
+
+    .credit {
+        font-size: 13px;
     }
 
     .post {

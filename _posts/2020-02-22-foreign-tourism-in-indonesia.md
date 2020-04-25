@@ -17,6 +17,12 @@ images:
     - image: /assets/img/uploads/12-feed-08.jpg
     - image: /assets/img/uploads/12-feed-09.jpg
     - image: /assets/img/uploads/12-feed-10.jpg
+
+credit:
+    author: Lorem
+    research: Ipsum
+    layout: Dolor
+    graphic: Sit Amet
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
