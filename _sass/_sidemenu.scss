@@ -224,12 +224,15 @@
 }
 
 #ci-menu .current {
-    font-family: $pf-light;
+    font-family: $pf;
+    font-weight: 300;
     font-size: 30px;
 }
 
 #ci-menu .issue {
-    font-family: $pf-bolditalic;
+    font-family: $pf;
+    font-weight: 800;
+    font-style: italic;
     font-size: 30px;
 }
 
