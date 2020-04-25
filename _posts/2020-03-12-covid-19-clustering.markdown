@@ -4,7 +4,6 @@ title:  "Covid-19 Victim Clustering"
 date:   2020-03-12 17:37:39 +0700
 categories: jadimikir
 permalink: /:categories/:title
-link: /covid19-cluster/
 thumb: /assets/img/uploads/12-feed-01.jpg
 images:
     - image: /assets/img/uploads/12-feed-01.jpg

@@ -4,7 +4,6 @@ title:  "Welcome to Jekyll!"
 date:   2020-04-20 21:47:04 +0700
 categories: todaysresearch
 permalink: /:categories/:title
-link: /covid19-cluster/
 thumb: /assets/img/uploads/12-feed-01.jpg
 images:
     - image: /assets/img/uploads/12-feed-01.jpg

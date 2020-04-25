@@ -4,7 +4,6 @@ title:  "How Indonesian Government Treat Covid-19"
 date:   2020-03-10 17:37:39 +0700
 categories: jadimikir
 permalink: /:categories/:title
-link: /covid19/
 thumb: /assets/img/uploads/12-feed-01.jpg
 images:
     - image: /assets/img/uploads/12-feed-01.jpg

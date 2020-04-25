@@ -4,7 +4,6 @@ title:  "Living Wage in Java Island"
 date:   2020-02-23 14:37:39 +0700
 categories: currentissue
 permalink: /:categories/:title
-link: /java-living-wage/
 thumb: /assets/img/uploads/12-feed-01.jpg
 images:
     - image: /assets/img/uploads/12-feed-01.jpg
