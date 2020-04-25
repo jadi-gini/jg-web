@@ -1,27 +1,26 @@
 ---
 layout: post
-title:  "Foreign Tourism in Indonesia"
-date:   2020-02-22 17:37:39 +0700
-categories: currentissue
+title: How Indonesian Government Treat Covid-19
+categories: jadimikir
+date: 2020-03-10 17:37:39 +0700
 permalink: /:categories/:title
 thumb: /assets/img/uploads/12-feed-01.jpg
-images:
-    - image: /assets/img/uploads/12-feed-01.jpg
-    - image: /assets/img/uploads/12-feed-02.jpg
-    - image: /assets/img/uploads/12-feed-03.jpg
-    - image: /assets/img/uploads/12-feed-04.jpg
-    - image: /assets/img/uploads/12-feed-05.jpg
-    - image: /assets/img/uploads/12-feed-06.jpg
-    - image: /assets/img/uploads/12-feed-07.jpg
-    - image: /assets/img/uploads/12-feed-08.jpg
-    - image: /assets/img/uploads/12-feed-09.jpg
-    - image: /assets/img/uploads/12-feed-10.jpg
-
 credit:
-    author: Lorem
-    research: Ipsum
-    layout: Dolor
-    graphic: Sit Amet
+  author: Lorem
+  research: Ipsum
+  layout: Dolor
+  graphic: Sit Amet
+images:
+  - image: /assets/img/uploads/12-feed-01.jpg
+  - image: /assets/img/uploads/12-feed-02.jpg
+  - image: /assets/img/uploads/12-feed-03.jpg
+  - image: /assets/img/uploads/12-feed-04.jpg
+  - image: /assets/img/uploads/12-feed-05.jpg
+  - image: /assets/img/uploads/12-feed-06.jpg
+  - image: /assets/img/uploads/12-feed-07.jpg
+  - image: /assets/img/uploads/12-feed-08.jpg
+  - image: /assets/img/uploads/12-feed-09.jpg
+  - image: /assets/img/uploads/12-feed-10.jpg
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
